@@ -47,7 +47,13 @@ Technologies
 Screenshots
 -----------
 
-![Screenshot 1](screenshots/one.png) ![Screenshot 2](screenshots/two.png)
+
+<!-- ![Screenshot 1](screenshots/one.png) ![Screenshot 2](screenshots/two.png) -->
+<img src="screenshots/one.png" alt="image_one" width="40%" height="40%"> 
+<img src="screenshots/two.png" alt="image_two" width="40%" height="40%">
+
+
+<!-- ![Screenshot 1](screenshots/one.png) ![Screenshot 2](screenshots/two.png) -->
 
 Contributing
 ------------
